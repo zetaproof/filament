@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/filamentphp/filament/assets/41773797/8d5a0b12-4643-4b5c-964a-56f0db91b90a" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
-
+<p> Accelerated by Laravel</p>
 <p align="center">
     <a href="https://github.com/filamentphp/filament/actions"><img alt="Tests passing" src="https://img.shields.io/badge/Tests-passing-green?style=for-the-badge&logo=github"></a>
     <a href="https://laravel.com"><img alt="Laravel v11+" src="https://img.shields.io/badge/Laravel-v11+-FF2D20?style=for-the-badge&logo=laravel"></a>
